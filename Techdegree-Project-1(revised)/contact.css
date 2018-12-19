@@ -1,0 +1,21 @@
+* {
+  background-color: lightblue;
+}
+
+body {
+  font-family: "arial";
+  text-align: center;
+  
+}
+
+h1 {
+  text-align: center;
+  background-color: #e2e2e2;
+  padding: 5px;
+  
+}
+
+.section-title {
+  text-transform: capitalize;
+  background-color: #e2e2e2;
+}
